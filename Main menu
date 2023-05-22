@@ -1,0 +1,61 @@
+MAIN MENU:
+
+1-INSERT 
+	1-user
+	2-post
+	3-comment
+	4-journey
+	5-hike
+	6-upvote
+	7-downvote
+	8-q
+2-UPDATE
+	1-user
+	2-post
+	3-comment
+	4-journey
+	5-q
+3-SELECT
+	1-users
+		1-users have done more than 3 hikes
+		2-users have done hard hikes
+		3-users have done hikes in Grenoble
+		4-les utilisateurs  qui ont upvote au moins 1 post
+		5-L'utilisateur avec le plus de posts
+		6-all users
+		7-q
+		
+	2-posts
+		1-les posts avec des votes négatifs
+		2-le post qui a plus de votes
+		3-les posts des utilisateurs qui ont fait une randonnée medium
+		4-all posts
+		5-q
+	3-comments
+		1-les commentaires des utilisateurs qui ont au moins upvoter une fois
+		2-all comments
+		3-q
+	4-journeys & hikes
+		1- toutes les randonnées à grenoble
+		2- les randonnées qui sont au moins faites par 5 utilisateurs
+		3- Les noms et durée minimale des randonéées 
+		4-les randonnées réalisées par x (entrée utilisateur)
+		5-La localisation de la randonnée la plus réalisée
+		6-all journeys
+		7-all hikes
+		8-q
+	6-upvotes & downvotes
+		1-le postTitle et le postBody du post le plus upvoté
+		2-Le nom  et  l'adresse mail de l'utilisateur qui a aimé le plus de posts
+		3-Le nom  et  l'adresse mail de l'utilisateur qui a aimé le plus de posts		4-q
+		4-all upvotes
+		5-all downvotes
+		6-q
+	
+	7-q
+4-DELETE
+	1-user
+	2-post
+	3-comment
+	4-q
+5-QUIT
