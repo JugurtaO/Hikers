@@ -12,7 +12,7 @@
 
 
 ## Notre Vue : VotesView
-Le but d'avoir créé cette vue est de garder un oeil sur les votes des posts qui seront dynamiquement calculé à partir de nombre de votes positifs (upvotes)
+Le but d'avoir créé cette vue est de garder un oeil sur les votes des posts qui seront dynamiquement calculés à partir de nombre de votes positifs (upvotes)
 et à partir de nombre de votes négatifs (downvotes) mais aussi éviter de taper une requête complexe et très longue plusieurs fois.
 Le travail consiste alors à faire une lecture de cette vue à chaque fois qu'on a besoin. (en effet ,elle agit comme une table )
 
